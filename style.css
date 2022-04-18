@@ -1,0 +1,26 @@
+body {
+  background-color: #ccc;
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+blockquote {
+  font-style: italic;
+}
+li {
+  text-align: justify;
+  font-family: "Lucida Sans", Geneva, sans-serif;
+}
+footer {
+  font-size: 14px;
+  font-style: italic;
+  text-align: left;
+}
